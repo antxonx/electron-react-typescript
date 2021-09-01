@@ -26,6 +26,7 @@
  * ```
  */
 
-import './index.css';
+import './scss/index.scss';
+import './components/App';
 
 console.log('👋 This message is being logged by "renderer.js", included via webpack');
